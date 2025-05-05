@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/real_state_webpage/static/css/main.d6adec4e.css",
+    "main.js": "/real_state_webpage/static/js/main.0c07d1b9.js",
+    "static/media/about.jpg": "/real_state_webpage/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/real_state_webpage/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/real_state_webpage/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/real_state_webpage/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "index.html": "/real_state_webpage/index.html",
+    "main.d6adec4e.css.map": "/real_state_webpage/static/css/main.d6adec4e.css.map",
+    "main.0c07d1b9.js.map": "/real_state_webpage/static/js/main.0c07d1b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6adec4e.css",
+    "static/js/main.0c07d1b9.js"
+  ]
+}
